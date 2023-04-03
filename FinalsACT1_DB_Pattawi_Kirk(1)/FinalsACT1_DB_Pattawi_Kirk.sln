@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalsACT1_DB_Pattawi_Kirk", "LogInForm\FinalsACT1_DB_Pattawi_Kirk.csproj", "{AA7E0292-C89A-481F-BE08-D9B95E4D9C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7E0292-C89A-481F-BE08-D9B95E4D9C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7E0292-C89A-481F-BE08-D9B95E4D9C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7E0292-C89A-481F-BE08-D9B95E4D9C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7E0292-C89A-481F-BE08-D9B95E4D9C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5929F6-B094-408C-B5B4-C5C4A804B8C0}
+	EndGlobalSection
+EndGlobal

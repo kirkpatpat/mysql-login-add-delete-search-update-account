@@ -1,0 +1,12 @@
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.LogIn.resources
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.Properties.Resources.resources
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\bin\Debug\LogInForm.exe.config
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\bin\Debug\LogInForm.exe
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\bin\Debug\LogInForm.pdb
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.exe
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.pdb
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS ROG\OneDrive\Documents\BSCS(3)\ADET\LogInForm\LogInForm\obj\Debug\LogInForm.frmReg.resources
